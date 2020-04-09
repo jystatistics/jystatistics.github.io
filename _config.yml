@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "About Me"
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   bio              : "I'm currently pursuing Ph.D in Epidemiology and Biostatistics at University of Nevada, Las Vegas. I'm interested in statistics and genomics!"
   location         : "Las Vegas, Nevada, USA"
   employer         :
