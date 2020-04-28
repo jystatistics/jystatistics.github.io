@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Jongyun Jung Website"
+title: "Welcome to my Personal Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
