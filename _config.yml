@@ -84,7 +84,7 @@ author:
   avatar           : "me.jpg"
   bio              : "I'm currently pursuing Ph.D in Epidemiology and Biostatistics at University of Nevada, Las Vegas. I'm interested in statistics and genomics!"
   location         : "Las Vegas, Nevada, USA"
-  employer         : "University of Nevada, Las Vegas, Nevada Institute of Personalized Medicine"
+  employer         : #"University of Nevada, Las Vegas, Nevada Institute of Personalized Medicine"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IxZPqEkAAAAJ&hl=en"
   email            : "jungjongyun83@gmail.com"
