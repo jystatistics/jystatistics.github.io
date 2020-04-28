@@ -84,10 +84,10 @@ author:
   avatar           : "me.jpg"
   bio              : "I'm currently pursuing Ph.D in Epidemiology and Biostatistics at University of Nevada, Las Vegas. I'm interested in statistics and genomics!"
   location         : "Las Vegas, Nevada, USA"
-  employer         : "University of Nevada, Las Vegas, Nevada Institute of Personalized Medicine"
+  employer         : #"University of Nevada, Las Vegas, Nevada Institute of Personalized Medicine"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=IxZPqEkAAAAJ&hl=en"
-  email            : "jungjongyun83@gmail.com
+  email            : #"jungjongyun83@gmail.com
   researchgate     : 
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jongyun-john-jung-05a15479/?locale=en_US"
+  linkedin         : #"https://www.linkedin.com/in/jongyun-john-jung-05a15479/?locale=en_US"
   orcid            : "https://orcid.org/0000-0002-9258-5397"
   pinterest        :
   soundcloud       :
