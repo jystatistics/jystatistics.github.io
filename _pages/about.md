@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "My Awesome site: Welcome to Jongyun Jung's Website"
+title: "Welcome to Jongyun Jung Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
