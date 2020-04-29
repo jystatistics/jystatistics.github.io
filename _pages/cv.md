@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Epidemiology and Biostatistics, University of Nevada, Las Vegas, Aug 2019 - Present
+* M.S. in Mathematics and Statistics (Cum Laude), Minnesota State University, Mankato, Minnesota, May, 2019
+* B.S. in Economics and Mathematics (Cum Laude), Minnesota State University, Mankato, Minnesota, May, 2013
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2019 - Present: Research Assistant
+  * Nevada Institute of Personalized Medicine, Las Vegas, NV
+  * Duties included:
+    * Develop the statistical model to analyze the genomic data
+    * Genome Wide Association Study: Pre-Processing, Imputation, Genetic Risk Score Calculation
+  * Supervisor: Dr. Qing Wu
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2017 - May 2019: Teaching Assistant
+  * Minnesota State University, Mankato, MN
+  * Duties included:
+    * Instucted College Algebra (MATH 112) & Elementary Statistics (STAT 154) as an independent instructor
+    * Tutor different mathematics and statistics courses at Mathematics & Statistics Learning Center
   
 Skills
 ======
