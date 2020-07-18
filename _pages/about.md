@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I'm working in the Wu Lab as a graduate research assistant at Nevada Institute of Personalized Medicine(https://www.unlv.edu/nipm), where I try to predict the disease outcome (phenotype) using the genomic data. I am interested in how the mathematics and statistics can be applied to the genomic area and particularly my research interests are Genome-Wide Association Study (GWAS), Machine Learning, Genomic data analysis, and survival analysis. I began to work at Dr. Wu' lab since June 2019 and I'm looking forward to developing new software and methodology related with genomic data in the Wu Lab. 
+Currently, I'm working in the Wu Lab as a graduate research assistant at [Nevada Institute of Personalized Medicine](https://www.unlv.edu/nipm), where I try to predict the disease outcome (phenotype) using the genomic data. I am interested in how the mathematics and statistics can be applied to the genomic area and particularly my research interests are Genome-Wide Association Study (GWAS), Machine Learning, Genomic data analysis, and survival analysis. I began to work at Dr. Wu' lab since June 2019 and I'm looking forward to developing new software and methodology related with genomic data in the Wu Lab. 
 
 
 Outside of the lab work, I’m studying for a Ph.D. program in Epidemiology and Biostatistics at the School of Public Health, University of Nevada, Las Vegas. I received B.S. in Economics and Mathematics and M.S. in Mathematics and Statistics at Minnesota State University, Mankato where I completed my master thesis on "A Statistical Analysis and Machine Learning of Genomic data".
