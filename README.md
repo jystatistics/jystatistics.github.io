@@ -1,10 +1,28 @@
+# Thinkgs to do
+
+- Update the main page
+
+- Update the CV
+
+- Update the blogs post
+
 # Notes for me
 
-Info about which pages to edit is in _pages/markdown.md
+Info about which pages to edit is in _pages/markdown.md_
+
+Change content of main landing page in _pages/about.md_
+
+Change sidebar content in _config.yml_
+
+Change how sidebar shows up in _includes/author-profile.html_
+
+To run the site locally, run bundle exec jekyll serve
 
 # Reference website for this webpage template
 
 See more info at https://academicpages.github.io/
+
+More information from this website: https://github.com/cduvallet/cduvallet.github.io
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
