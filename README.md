@@ -6,6 +6,8 @@
 
 - Update the blogs post
 
+- Update teaching (upload the material) & Publication
+
 # Notes for me
 
 Info about which pages to edit is in _pages/markdown.md_
