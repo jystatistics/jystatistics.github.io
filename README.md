@@ -2,7 +2,7 @@
 
 - Update the main page
 
-- Update the CV
+- Update the CV (with R markdown)
 
 - Update the blogs post
 
