@@ -28,25 +28,31 @@ subtitle: "PhD Candidate • Biomedical Informatics • The Ohio State Universit
   </p>
 
   <!-- ICONS -->
-  <div style="margin-top: 10px; display:flex; gap:15px; align-items:center;">
-    <a href="/files/CV_Jongyun_Jung.pdf" title="CV" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/file-pdf.svg" width="26">
-    </a>
-    <a href="https://scholar.google.com/citations?user=IxZPqEkAAAAJ&hl=en" title="Google Scholar" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" width="26">
-    </a>
-    <a href="https://www.linkedin.com/in/jongyun-jung/" title="LinkedIn" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="26">
-    </a>
-    <a href="https://github.com/jystatistics" title="GitHub" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="26">
-    </a>
-  </div>
+<div style="margin-top: 10px; display:flex; gap:20px; align-items:center;">
+  <a href="/files/CV_Jongyun_Jung.pdf" target="_blank" style="transition:0.2s;" onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/file-pdf.svg" width="28">
+  </a>
+  <a href="https://scholar.google.com/citations?user=LFY03-UAAAAJ&hl=en" target="_blank" style="transition:0.2s;" onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" width="28">
+  </a>
+  <a href="https://www.linkedin.com/in/jongyunjung/" target="_blank" style="transition:0.2s;" onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28">
+  </a>
+  <a href="https://github.com/jystatistics" target="_blank" style="transition:0.2s;" onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="28">
+  </a>
+</div>
 
   </div>
 </div>
 
 ---
 
-Welcome to my personal academic homepage.  
+<div style="margin-top: 25px; padding: 20px; background:#fafafa; 
+            border-radius:10px; text-align:center; font-size:1.1em;">
+  Welcome to my academic homepage.  
+  Please use the navigation menu to explore my <strong>Research</strong>, 
+  <strong>Publications</strong>, <strong>Teaching</strong>, and <strong>Contact</strong>.
+</div>
+ 
 Use the navigation menu above to explore my **Research**, **Publications**, **Teaching**, and **Contact** pages.
