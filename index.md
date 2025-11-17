@@ -27,30 +27,30 @@ subtitle: "PhD Candidate • Biomedical Informatics • The Ohio State Universit
     My work integrates longitudinal trajectories, genetics, and transformer-based clinical modeling.
   </p>
 
- <!-- ICONS -->
-<div style="margin-top: 10px; display:flex; gap:18px; align-items:center;">
+  <!-- ICONS -->
+  <div style="margin-top: 12px; display:flex; gap:18px; align-items:center;">
 
-  <!-- CV icon -->
-  <a href="/files/CV_Jongyun_Jung.pdf" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="30">
-  </a>
+    <!-- CV -->
+    <a href="/files/CV_Jongyun_Jung.pdf" target="_blank" title="CV">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="30">
+    </a>
 
-  <!-- Google Scholar -->
-  <a href="https://scholar.google.com/citations?user=LFY03-UAAAAJ&hl=en" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" width="28">
-  </a>
+    <!-- Google Scholar -->
+    <a href="https://scholar.google.com/citations?user=LFY03-UAAAAJ&hl=en" target="_blank" title="Google Scholar">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" width="28">
+    </a>
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/jongyunjung/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28">
-  </a>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/jongyunjung/" target="_blank" title="LinkedIn">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28">
+    </a>
 
-  <!-- GitHub -->
-  <a href="https://github.com/jystatistics" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="28">
-  </a>
+    <!-- GitHub -->
+    <a href="https://github.com/jystatistics" target="_blank" title="GitHub">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="28">
+    </a>
 
-</div>
+  </div>
 
   </div>
 </div>
