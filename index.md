@@ -47,12 +47,3 @@ subtitle: "PhD Candidate • Biomedical Informatics • The Ohio State Universit
 </div>
 
 ---
-
-<div style="margin-top: 25px; padding: 20px; background:#fafafa; 
-            border-radius:10px; text-align:center; font-size:1.1em;">
-  Welcome to my academic homepage.  
-  Please use the navigation menu to explore my <strong>Research</strong>, 
-  <strong>Publications</strong>, <strong>Teaching</strong>, and <strong>Contact</strong>.
-</div>
- 
-Use the navigation menu above to explore my **Research**, **Publications**, **Teaching**, and **Contact** pages.
