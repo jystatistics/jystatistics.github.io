@@ -1,3 +1,11 @@
 main:
   - title: "CV"
-    url: /cv/
+    url: /files/CV_Jongyun_Jung.pdf
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Contact"
+    url: /contact/
