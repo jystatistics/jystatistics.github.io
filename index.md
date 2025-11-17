@@ -27,23 +27,43 @@ subtitle: "PhD Candidate • Biomedical Informatics • The Ohio State Universit
     My work integrates longitudinal trajectories, genetics, and transformer-based clinical modeling.
   </p>
 
-  <!-- ICONS -->
-<div style="margin-top: 10px; display:flex; gap:20px; align-items:center;">
-  <a href="/files/CV_Jongyun_Jung.pdf" target="_blank" style="transition:0.2s;" onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/file-pdf.svg" width="28">
+ <!-- ICONS -->
+<div style="margin-top: 10px; display:flex; gap:18px; align-items:center;">
+
+  <!-- CV icon -->
+  <a href="/files/CV_Jongyun_Jung.pdf" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" width="30">
   </a>
-  <a href="https://scholar.google.com/citations?user=LFY03-UAAAAJ&hl=en" target="_blank" style="transition:0.2s;" onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1">
+
+  <!-- Google Scholar -->
+  <a href="https://scholar.google.com/citations?user=LFY03-UAAAAJ&hl=en" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg" width="28">
   </a>
-  <a href="https://www.linkedin.com/in/jongyunjung/" target="_blank" style="transition:0.2s;" onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/jongyunjung/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28">
   </a>
-  <a href="https://github.com/jystatistics" target="_blank" style="transition:0.2s;" onmouseover="this.style.opacity=0.6" onmouseout="this.style.opacity=1">
+
+  <!-- GitHub -->
+  <a href="https://github.com/jystatistics" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="28">
   </a>
+
 </div>
 
   </div>
 </div>
+
+---
+
+## 🔬 Research Interests
+
+- Longitudinal statistical modeling  
+- Time-varying genetic effects (GWAS trajectories)  
+- Machine learning & transformer-based prediction models  
+- Fracture & osteoporosis risk assessment  
+- Meta-analysis & evidence synthesis  
+- Precision medicine for aging populations  
 
 ---
