@@ -10,6 +10,6 @@ author:
   orcid            : "https://orcid.org/0000-0002-9258-5397"
 
 analytics:
-  provider: "google-universal"
+  provider: "google-gtag"
   google:
     tracking_id: "G-GTYJE767PZ"
