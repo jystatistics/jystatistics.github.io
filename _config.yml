@@ -8,3 +8,8 @@ author:
   linkedin         : "jongyunjung"
   googlescholar    : "https://scholar.google.com/citations?user=IxZPqEkAAAAJ&hl=en"
   orcid            : "https://orcid.org/0000-0002-9258-5397"
+
+analytics:
+  provider: "google-universal"
+  google:
+    tracking_id: "G-GTYJE767PZ"
