@@ -1,15 +1,49 @@
-author:
-  name             : "Jongyun Jung (John)"
-  avatar           : "/images/OSU_2022.jpeg"
-  bio              : "PhD Candidate in Biomedical Informatics at The Ohio State University. My work focuses on longitudinal modeling, genetics, and precision fracture prediction."
-  location         : "Columbus, Ohio, USA"
-  email            : "jung.731@osu.edu"
-  github           : "jystatistics"
-  linkedin         : "jongyunjung"
-  googlescholar    : "https://scholar.google.com/citations?user=IxZPqEkAAAAJ&hl=en"
-  orcid            : "https://orcid.org/0000-0002-9258-5397"
+title: "Jongyun Jung"
+tagline: "Biomedical Informatics • Ohio State University"
+description: "PhD Candidate in Biomedical Informatics. Research in longitudinal modeling, genetics, transformer-based prediction, and precision fracture risk."
 
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "G-GTYJE767PZ"
+# Minimal Mistakes
+theme: minimal-mistakes-jekyll
+
+markdown: kramdown
+highlighter: rouge
+
+url: "https://jystatistics.github.io"
+baseurl: ""
+
+author:
+  name: "Jongyun Jung (John)"
+  avatar: "/images/OSU_2022.jpeg"
+  bio: "PhD Candidate in Biomedical Informatics at The Ohio State University. My work focuses on longitudinal modeling, genetics, and precision fracture prediction."
+  location: "Columbus, OH, USA"
+  email: "jung.731@osu.edu"
+  github: "jystatistics"
+  linkedin: "jongyunjung"
+  googlescholar: "https://scholar.google.com/citations?user=IxZPqEkAAAAJ&hl=en"
+  orcid: "https://orcid.org/0000-0002-9258-5397"
+
+# Google Analytics GA4
+google_analytics: "G-GTYJE767PZ"
+
+# Navigation menu
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+
+# Plugins
+plugins:
+  - jekyll-include-cache
+
+# Site Maps + Feeds
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
