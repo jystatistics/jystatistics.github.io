@@ -4,57 +4,66 @@ title: "Jongyun Jung"
 subtitle: "PhD Candidate • Biomedical Informatics • The Ohio State University"
 ---
 
-<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap; margin-bottom: 25px;">
 
-  <!-- LEFT COLUMN: PROFILE IMAGE -->
+  <!-- LEFT: IMAGE -->
   <div style="flex: 0 0 180px;">
     <img src="/images/OSU_2022.jpeg" alt="Profile photo"
-         style="border-radius: 50%; width: 180px; box-shadow: 0 0 10px rgba(0,0,0,0.15);">
+         style="border-radius: 12px; width: 180px; box-shadow: 0 0 8px rgba(0,0,0,0.15);">
   </div>
 
-  <!-- RIGHT COLUMN: INTRO TEXT -->
-  <div style="flex: 1; min-width: 280px;">
+  <!-- RIGHT: TEXT -->
+  <div style="flex: 1; min-width: 300px;">
 
-### **Jongyun Jung**
-**PhD Candidate, Biomedical Informatics**  
-**The Ohio State University, College of Medicine**
+    <h2 style="margin-bottom: 5px;">Jongyun Jung (John)</h2>
+    <p style="margin-top: 0;">
+      <strong>PhD Candidate, Biomedical Informatics</strong><br>
+      <strong>The Ohio State University, College of Medicine</strong>
+    </p>
 
-I develop statistical, genomic, and machine learning methods to improve **precision fracture prediction** and address disparities in aging research.  
-My methodological work integrates:
+    <p>
+      I develop statistical, genomic, and machine learning methods to improve
+      <strong>precision fracture prediction</strong> and address disparities in aging research.<br>
+      My methodological work integrates:
+    </p>
 
-- Longitudinal bone & muscle trajectories  
-- GWAS and genetic risk prediction  
-- Transformer-based sequential models (HyTrax)  
-- Time-to-event and competing-risk statistics  
-- Real-world clinical data and FRAX risk factors  
+    <ul>
+      <li>Longitudinal bone & muscle trajectories</li>
+      <li>GWAS and genetic risk prediction</li>
+      <li>Transformer-based sequential models (HyTrax)</li>
+      <li>Time-to-event & competing-risk statistics</li>
+      <li>Real-world clinical data and FRAX risk factors</li>
+    </ul>
 
-My ultimate goal is to build **Personalized Fracture Trajectory Models** to transform care for aging populations.
+    <p>
+      My goal is to build <strong>Personalized Fracture Trajectory Models</strong> that transform care for aging populations.
+    </p>
 
----
+    <!-- ICONS -->
+    <div style="margin-top: 10px; display:flex; gap:15px; align-items:center;">
+      <a href="/files/CV_Jongyun_Jung.pdf" title="CV" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/file-pdf.svg" width="26">
+      </a>
 
-<!-- ICON LINKS -->
-<p style="margin-top: 5px;">
+      <a href="https://scholar.google.com/" title="Google Scholar" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlescholar.svg"
+             width="26" style="fill:#4285F4;">
+      </a>
 
-<a href="/files/CV_Jongyun_Jung.pdf" style="margin-right: 15px;">
-  <img src="https://img.icons8.com/ios-filled/30/000000/cv.png" style="vertical-align: middle;">
-</a>
+      <a href="https://www.linkedin.com/in/jongyun-jung/" title="LinkedIn" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
+             width="26" style="fill:#0A66C2;">
+      </a>
 
-<a href="https://scholar.google.com/" style="margin-right: 15px;">
-  <img src="https://img.icons8.com/material-rounded/30/000000/google-scholar.png" style="vertical-align: middle;">
-</a>
-
-<a href="https://www.linkedin.com/in/jongyun-jung/" style="margin-right: 15px;">
-  <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" style="vertical-align: middle;">
-</a>
-
-<a href="https://github.com/jystatistics">
-  <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" style="vertical-align: middle;">
-</a>
-
-</p>
+      <a href="https://github.com/jystatistics" title="GitHub" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"
+             width="26">
+      </a>
+    </div>
 
   </div>
 </div>
+
 
 ---
 
