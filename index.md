@@ -52,6 +52,11 @@ subtitle: "PhD Candidate • Biomedical Informatics • The Ohio State Universit
 
   </div>
 
+<p style="margin-top: 15px;">
+  📧 <strong>Email:</strong>
+  <a href="mailto:jung.731@osu.edu">jung.731@osu.edu</a>
+</p>
+
   </div>
 </div>
 
