@@ -1,0 +1,5 @@
+# Optional badge colors/links for the abbr field in papers.bib. Example:
+# "JBMR":
+#   url: https://academic.oup.com/jbmr
+#   color: "#00369f"
+{}

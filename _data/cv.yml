@@ -1,0 +1,153 @@
+cv:
+  name: Jongyun Jung
+  label: Postdoctoral Research Scientist
+  email: jj3669@cumc.columbia.edu
+  location: New York, NY
+  image: ""
+  summary: AI and statistical methods for biological aging trajectories, musculoskeletal aging, and fracture prediction.
+
+  social_networks:
+    - network: GitHub
+      username: jystatistics
+    - network: LinkedIn
+      username: jongyunjung
+    - network: ORCID
+      username: 0000-0002-9258-5397
+    - network: Google Scholar
+      username: LFY03-UAAAAJ
+
+  sections:
+    Experience:
+      - company: Robert N. Butler Columbia Aging Center, Mailman School of Public Health, Columbia University
+        position: Postdoctoral Research Scientist
+        location: New York, NY
+        start_date: 2026-08
+        end_date: present
+        highlights:
+          - "Mentor: Dr. Daniel Belsky"
+
+      - company: Department of Biomedical Informatics, The Ohio State University
+        position: Graduate Research Associate / Graduate Research Assistant
+        location: Columbus, OH
+        start_date: 2022-08
+        end_date: 2026-08
+        highlights:
+          - "Advisor: Dr. Qing Wu"
+
+      - company: Nevada Institute of Personalized Medicine, University of Nevada, Las Vegas
+        position: Graduate Research Assistant
+        location: Las Vegas, NV
+        start_date: 2019-06
+        end_date: 2022-08
+        highlights:
+          - "Advisor: Dr. Qing Wu"
+
+      - company: IMS Health
+        position: Secondary Data Analyst
+        location: Seoul, South Korea
+        start_date: 2013-07
+        end_date: 2015-12
+        highlights:
+          - Built SQL business-intelligence and data-warehousing tools for pharmaceutical marketing analytics.
+
+    Education:
+      - institution: The Ohio State University
+        location: Columbus, OH
+        area: Biomedical Science (Biomedical Informatics Track)
+        studyType: PhD
+        start_date: 2022-08
+        end_date: 2026-08
+        highlights:
+          - "Advisor: Dr. Qing Wu"
+
+      - institution: University of Nevada, Las Vegas
+        location: Las Vegas, NV
+        area: Public Health (Epidemiology and Biostatistics)
+        studyType: Certificate
+        date: 2022-08
+
+      - institution: Minnesota State University, Mankato
+        location: Mankato, MN
+        area: Mathematics and Statistics
+        studyType: MS
+        date: 2019-05
+        highlights:
+          - "Thesis: A Statistical Analysis and Machine Learning of Genomic Data (cum laude)"
+
+      - institution: Minnesota State University, Mankato
+        location: Mankato, MN
+        area: Economics and Mathematics
+        studyType: BA
+        date: 2013-05
+        highlights:
+          - Cum laude
+
+    Research Funding:
+      - label: "NIA Biomarker Network Pilot Project: SS-HyTrax ($25,000)"
+        details: Project lead. Self-supervised transformer model for biological aging trajectories across harmonized multi-cohort data. Awarded Aug 2026; project period Sep 2026 – Mar 2027.
+      - label: "NIH/NIA K99/R00 Pathway to Independence Award: PoA-HyTrax"
+        details: Principal Investigator. Submitted Oct 2026.
+      - label: "NIH/NIA F99/K00 Predoctoral to Postdoctoral Transition Award"
+        details: Principal Investigator (applicant). Personalized fracture trajectory model. Submitted Oct 2024.
+
+    Awards:
+      - title: InnovAGE Fellowship (Cohort 6)
+        date: 2026-08
+        awarder: UMass Massachusetts Medical Device Development Center (M2D2)
+      - title: OSU Ray Travel Award
+        date: 2025-12
+        awarder: Council of Graduate Students, The Ohio State University
+      - title: Young Investigator Travel Grant
+        date: 2025-07
+        awarder: American Society for Bone and Mineral Research
+      - title: ASBMR Student Cohort Program
+        date: 2025-01
+        awarder: American Society for Bone and Mineral Research
+      - title: KSEA-KUSCO Graduate Scholarship
+        date: 2025-05
+        awarder: Korean-American Scientists and Engineers Association
+      - title: OSU Career Development Grant
+        date: 2025-05
+        awarder: Council of Graduate Students, The Ohio State University
+      - title: Outstanding Graduate Student Award
+        date: 2020-04
+        awarder: Department of Epidemiology and Biostatistics, University of Nevada, Las Vegas
+      - title: Student & Early Career Travel Award
+        date: 2019-05
+        awarder: American Statistical Association
+
+    Selected Presentations:
+      - label: "Biomarkers of Aging Conference, Harvard Medical School (poster), Oct 2026"
+        details: "HyTrax: Deep Sequential Modeling of Musculoskeletal Trajectories as Dynamic Biomarkers of Aging"
+      - label: "ICFSR 2026, Washington, D.C. (late-breaking oral), Mar 2026"
+        details: "HyTrax: Deep Sequential Modeling and Musculoskeletal Trajectories Enhance Fracture Prediction Beyond Baseline FRAX"
+      - label: "ASBMR Muscle and Bone Webinar (invited), Nov 2025"
+        details: "HyTrax: A Hybrid Trajectory-Based Model for Personalized Fracture Risk Prediction"
+      - label: "ASBMR 2025 (plenary poster), Sep 2025"
+        details: "Beyond FRAX: Personalized Fracture Trajectory Model Using Genetic, Muscle, and Longitudinal Data"
+      - label: "ASBMR 2024 (oral), Sep 2024"
+        details: "Transforming Fracture Prediction in Older Men: A Genomics-AI Synergy"
+
+    Teaching:
+      - label: "BMI 7050: Meta-Analysis, The Ohio State University (Autumn 2024, Summer 2025)"
+        details: Guest lecturer and course designer.
+      - label: "BMI 5780: Programming for Biomedical Informatics, The Ohio State University (Autumn 2023)"
+        details: Machine learning case studies and Python homework.
+      - label: "STAT 154 and MATH 112, Minnesota State University, Mankato (2017 – 2019)"
+        details: Teaching assistant.
+
+    Service:
+      - label: Journal reviewer
+        details: npj Digital Medicine, Scientific Reports, Journal of Big Data, Clinical and Translational Metabolism, Lipids in Health and Disease, Journal of Orthopaedic Surgery and Research, Clinical Proteomics, PeerJ. Abstract reviewer, ASBMR 2026.
+      - label: President, Ohio KSEA Young Generation Group (2024 – 2025)
+        details: Founded the OSU chapter and organized panels, networking, and mentorship programs.
+      - bullet: "**Membership Engagement Committee, ASA Section on Genetics and Genomics (2021 – 2022)**"
+      - bullet: "**Founder and President, ASA Student Chapter, Minnesota State University, Mankato (2018 – 2019)**"
+
+    Skills:
+      - name: Programming
+        keywords: "R, Python, SAS, MATLAB, C/C++, Julia"
+      - name: Genomics
+        keywords: "PLINK, GCTA, BCFtools"
+      - name: Computing
+        keywords: "AWS, HPC (OpenMP, MPI), GPU"

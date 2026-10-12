@@ -1,36 +1,30 @@
-# Thinkgs to do
+# jystatistics.github.io
 
-- Update the main page
+Personal academic website of Jongyun Jung, built with [al-folio](https://github.com/alshedivat/al-folio) (v1) and deployed to GitHub Pages by GitHub Actions.
 
-- Update the CV (with R markdown)
+## Where to edit
 
-- Update the blogs post
+| What | File |
+| --- | --- |
+| Home page bio, title, address | `_pages/about.md` |
+| Name, site description, analytics | `_config.yml` |
+| Email, Scholar, ORCID, GitHub, LinkedIn links | `_data/socials.yml` |
+| Publications (published and preprints) | `_bibliography/papers.bib` (add `selected = {true}` to show on the home page; `status = {preprint}` for under review) |
+| Research project cards | `_projects/*.md` |
+| News items | `_news/*.md` (one short file per item) |
+| CV page | `_data/cv.yml`; PDF at `assets/pdf/CV_Jongyun_Jung.pdf` |
+| Teaching | `_pages/teaching.md` |
+| Photo and figures | `assets/img/` |
 
-- Update teaching (upload the material) & Publication
+## Preview locally
 
-# Notes for me
+```bash
+bundle install
+bundle exec jekyll serve   # then open http://localhost:4000
+```
 
-Info about which pages to edit is in _pages/markdown.md_
+## Publishing
 
-Change content of main landing page in _pages/about.md_
+Push to `master`. The **Deploy site** action builds the site and pushes it to the `gh-pages` branch. In repository Settings → Pages, the source must be the `gh-pages` branch, and Settings → Actions → General → Workflow permissions must be "Read and write". Do not edit `gh-pages` by hand.
 
-Change sidebar content in _config.yml_
-
-Change how sidebar shows up in _includes/author-profile.html_
-
-To run the site locally, run bundle exec jekyll serve
-
-# Reference website for this webpage template
-
-See more info at https://academicpages.github.io/
-
-More information from this website: https://github.com/cduvallet/cduvallet.github.io
-
-## To run locally (not on GitHub Pages, to serve on your own computer)
-
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-
+Full al-folio docs: https://github.com/alshedivat/al-folio/tree/main/docs

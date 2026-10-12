@@ -1,0 +1,5 @@
+# Co-author links shown on the publications page. Example:
+# "wu":
+#   - firstname: ["Qing", "Q."]
+#     url: https://example.edu/qing-wu
+{}

@@ -1,34 +1,24 @@
 ---
-layout: single
-title: "Publications"
+layout: page
 permalink: /publications/
-author_profile: true
+title: publications
+description: Peer-reviewed publications in reverse chronological order. Full list on Google Scholar.
+nav: true
+nav_order: 3
 ---
 
-# Selected Publications
+<!-- _pages/publications.md -->
 
-Below is a curated selection of my peer-reviewed work.  
-A full list is available upon request.
+<!-- Bibsearch Feature -->
 
----
+{% include bib_search.liquid %}
 
-## 2025
-- **Uncovering Racial and Genetic Disparities in FRAX Performance for Fracture Risk Assessment**  
-*Journal of Bone and Mineral Research*, 2025.
+<div class="publications">
 
-- **Precision Fracture Risk Assessment Using Genomic and Clinical Data**  
-*Osteoporosis International*, 2025.
+<h2 class="bibliography">Preprints and under review</h2>
+{% bibliography --query @*[status=preprint] --group_by none %}
 
----
+<h2 class="bibliography">Published</h2>
+{% bibliography --query @*[status!=preprint] %}
 
-## 2024
-- **SPTBN1 Multi-Tissue Functional Analysis**  
-*PLOS One*, 2024.
-
----
-
-## 2023–Earlier
-- **Artificial Intelligence in Fracture Detection with Different Image Modalities**  
-*Systematic Review & Meta-analysis*, 2024.
-
----
+</div>
